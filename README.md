@@ -1,16 +1,42 @@
-# gallery_app
+# Gallery App
+Test Flutter application for displaying images from API
 
-A new Flutter project.
+### Platforms
 
-## Getting Started
+iOS, Android
 
-This project is a starting point for a Flutter application.
+### Stack
+- Bloc
+- Freezed
+- AutoRoute
+- Dio
+- ConnectivityPlus
+- RxDart
+- InfiniteScrollPagination
+- CachedNetworkImage
 
-A few resources to get you started if this is your first Flutter project:
+### Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Tab with new images
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshots/1.png" width="250">
+
+2. Tab with popular images
+
+<img src="screenshots/2.png" width="250">
+
+3. Image description
+
+<img src="screenshots/3.png" width="250">
+
+4. Landscape mode
+
+<img src="screenshots/4.png" width="250">
+
+5. Internet connection handling
+
+<img src="screenshots/5.png" width="250">
+
+6. Error handling
+
+<img src="screenshots/6.png" width="250">
